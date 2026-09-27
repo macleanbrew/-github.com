@@ -1,4 +1,4 @@
-# -github.com
+# macleanbrew
 # Hi, I'm MacLean 👋
 
 ### 🚀 Aspiring Data Scientist & Computer Science Graduate | UMaT
